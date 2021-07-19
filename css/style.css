@@ -1,0 +1,98 @@
+/* ---------------
+    common style 
+-----------------*/
+body{
+    background-color: #E5E5E5;
+}
+
+h4{
+    color: #562EFF;
+}
+
+
+/* -------------
+    header style 
+----------------*/
+header{
+    height: 94px; 
+    margin-bottom: 28px;
+}
+
+header nav{
+    background-color: #562EFF;
+}
+
+
+/* -----------
+    main style 
+--------------*/
+
+/* top players */
+.top-section .top-players{
+    padding: 33px;
+}
+
+.players div>h5{
+    margin: 16px; 
+    font-size: 18px;
+}
+
+.players div>img{
+    width:56px;
+}
+
+hr{
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+/* top blogs */
+.top-section .top-blogs{
+    padding: 0 0 33px 33px;
+}
+
+.blogs div>img{
+    width:177px;
+}
+
+.blogs div>h5{
+    font-size: 1.2em;
+}
+
+.top-blogs .blogs div>p a{
+    color: #562EFF;
+}
+
+/* latest courses */
+.lower-section .latest-courses{
+    padding: 23px 0 33px 33px;
+}
+
+.course div>img{
+    width:224px; 
+    height:104px;
+}
+
+.course-title{
+    width: 224px;
+}
+
+.course-title h4{
+    font-size: 1.2em;
+}
+
+.course-title p{
+    color: #ED6B4F;
+}
+
+
+/* -------------
+    footer style 
+----------------*/
+footer{
+    background-color: #562EFF;
+}
+
+footer h4 span{
+    font-size: .8em;
+}
